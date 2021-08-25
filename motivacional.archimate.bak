@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Modivacional" id="id-e429dd31055743b3becc93d5e3e6a75c" version="4.6.0">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="(new model)" id="id-e429dd31055743b3becc93d5e3e6a75c" version="4.6.0">
   <folder name="Strategy" id="id-56c1ea9fd18c441587553178f08022a4" type="strategy"/>
   <folder name="Business" id="id-367333529ea04306af7bb6bb9628343b" type="business"/>
   <folder name="Application" id="id-71051d7380ec4e009876ec1041764e64" type="application"/>
